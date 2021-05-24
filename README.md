@@ -165,6 +165,10 @@ quit()
 #### OUTPUT :
  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/no-point.gif">
  
+### Step no 3 : Game Over when Snake hits the boundarie
+
+In this snake game, if the player hits the boundaries of the screen, then he loses. To specify that, I have made use of an ‘if’ statement that defines the limits for the x and y coordinates of the snake to be less than or equal to that of the screen. Also, make a not over here that I have removed the hardcodes and used variables instead so that it becomes easy in case you want to make any changes to the game later on.
+ 
  
  
  
