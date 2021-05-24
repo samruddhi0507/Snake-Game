@@ -17,5 +17,5 @@ pygame.quit()
 quit()
 ```
 ### output:
-<img src:"https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/display1-Snake-Game-in-Python-Edureka.png">
+<img src= "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/display1-Snake-Game-in-Python-Edureka.png" >
 
