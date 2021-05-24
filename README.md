@@ -41,6 +41,27 @@ quit()
 
  <img src ="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/display2-Snake-Game-in-Python-Edureka.png">
 
+ Now, you have a screen to play your Snake Game, but when you try to click on the close button, the screen does not close. This is because you have not specified that your screen should exit when you hit that close button. To do that, Pygame provides an event called “QUIT” and it should be used as follows:
+ 
+ ```
+ 
+ import pygame
+pygame.init()
+dis=pygame.display.set_mode((400,300))
+pygame.display.update()
+pygame.display.set_caption('Snake game by Edureka')
+game_over=False
+while not game_over:
+    for event in pygame.event.get():
+        if event.type==pygame.QUIT:
+            game_over=True
+ 
+pygame.quit()
+quit()
 
+```
+
+
+So now your screen is all set. The next part is to draw our snake on the screen which is covered in the following topic.
 
 
