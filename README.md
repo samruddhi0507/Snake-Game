@@ -162,7 +162,8 @@ pygame.quit()
 quit()
 
  ```
- 
+#### OUTPUT :
+ <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/no-point.gif">
  
  
  
