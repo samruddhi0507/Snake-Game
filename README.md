@@ -348,7 +348,8 @@ gameLoop()
 #### OUTPUT :
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/Adding-the-food-Snake-Game-in-python-Edureka.png">
 
- 
+ #### Terminal:
+ <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/Adding-the-food-terminal-Snake-Game-in-python-Edureka.png">
  
  
  
