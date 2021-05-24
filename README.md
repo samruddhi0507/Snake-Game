@@ -99,3 +99,37 @@ quit()
  <img src ="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/creating-the-snake-Snake-Game-in-Python-Edureka.png">
  
  As you can see, the snakehead is created as a blue rectangle. The next step is to get your snake moving.
+ 
+### Step no 3 : Moving the Snake
+
+To move the snake, you will need to use the key events present in the KEYDOWN class of Pygame. The events that are used over here are, K_UP, K_DOWN, K_LEFT, and K_RIGHT to make the snake move up, down, left and right respectively. Also, the display screen is changed from the default black to white using the fill() method.
+
+I have created new variables x1_change and y1_change in order to hold the updating values of the x and y coordinates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
