@@ -266,7 +266,7 @@ dis_width = 800
 dis_height = 600
  
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by Samruddhi Randove')
+pygame.display.set_caption('Snake Game by Samruddhi Randive')
  
 clock = pygame.time.Clock()
 snake_block = 10
@@ -376,7 +376,7 @@ dis_width = 600
 dis_height = 400
  
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by Edureka')
+pygame.display.set_caption('Snake Game by Samruddhi Randive')
  
 clock = pygame.time.Clock()
  
@@ -510,7 +510,7 @@ dis_width = 600
 dis_height = 400
  
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by Edureka')
+pygame.display.set_caption('Snake Game by Samruddhi Randive')
  
 clock = pygame.time.Clock()
  
