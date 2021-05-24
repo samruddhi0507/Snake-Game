@@ -39,6 +39,8 @@ quit()
 
 ```
  When you run this code, you will see that the screen that you saw earlier does not quit and also, it returns all the actions that take place over it. I have done that using the event.get() function. Also, I have named the screen as “Snake Game by samruddhi Randive ” using the display.set_caption() function.
+ 
+#### OUTPUT:
 
  <img src ="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/display2-Snake-Game-in-Python-Edureka.png">
 
@@ -95,3 +97,5 @@ quit()
 ```
 #### OUTPUT :
  <img src ="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/creating-the-snake-Snake-Game-in-Python-Edureka.png">
+ 
+ As you can see, the snakehead is created as a blue rectangle. The next step is to get your snake moving.
