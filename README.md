@@ -627,7 +627,7 @@ gameLoop()
  
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/final-screen-snake-game-Edureka.png"> 
 
-With this, we have reached the end of this python project on Snake Game in Python. 
+With this, we have reached the end of this  project on Snake Game in Python. 
 
 
 
